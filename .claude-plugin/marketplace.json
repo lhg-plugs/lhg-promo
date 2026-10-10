@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"小白也能做赚钱的促销：目标→档期→玩法设计→利润测算→执行清单→复盘（42 条确定性规则防亏本）","name":"lhg-promo","source":"./"}]}
